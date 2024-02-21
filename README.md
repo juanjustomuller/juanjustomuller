@@ -11,9 +11,9 @@ Mi caja de herramientas incluye, pero no se limita a:
 
 - **Lenguajes de Programación:** JavaScript (Node.js), HTML, CSS, SQL.
 - **Frameworks y Bibliotecas:** Express.js, React.js, Redux, Sequelize.
-- **Herramientas de Desarrollo:** Git, GitHub, Bootstrap, Postman.
+- **Herramientas de Desarrollo:** Git, GitHub, Bootstrap, Postman, Wordpress.
 - **Gestión de Recursos Multimedia:** Cloudinary.
-- **Almacenamiento y Persistencia:** LocalStorage, Bases de Datos SQL.
+- **Almacenamiento y Persistencia:** LocalStorage, Bases de Datos SQL, MongoDb
 
 
 Me encanta colaborar en proyectos innovadores y estoy siempre abierto a nuevas oportunidades. Si tienes ideas emocionantes, sugerencias de mejora o simplemente quieres charlar sobre desarrollo web, ¡no dudes en ponerte en contacto conmigo!
